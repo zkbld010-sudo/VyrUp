@@ -1,4 +1,4 @@
-import { BarChart3, Check, Eye, Goal, Heart, Lightbulb, Repeat2, Rocket, Sparkles, Star, Target, TrendingDown, TrendingUp, Video, X, Zap } from 'lucide-react'
+import { ChartBar as BarChart3, Check, Eye, Goal, Heart, Lightbulb, Repeat2, Rocket, Sparkles, Star, Target, TrendingDown, TrendingUp, Video, X, Zap } from 'lucide-react'
 import { TikTokIcon, InstagramIcon } from './icons'
 import type { Question } from './types'
 

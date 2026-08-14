@@ -1,6 +1,6 @@
 'use client'
 
-import { ArrowRight, BarChart3, ChevronRight, Rocket, ShieldCheck, TrendingDown } from 'lucide-react'
+import { ArrowRight, ChartBar as BarChart3, ChevronRight, Rocket, ShieldCheck, TrendingDown } from 'lucide-react'
 import { Header } from './shared'
 import { ReviewsSection } from './ReviewsSection'
 import { HeroSignalAnimation } from './HeroSignalAnimation'
